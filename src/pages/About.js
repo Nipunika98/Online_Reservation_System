@@ -44,7 +44,7 @@ const About = () => {
             <div className="col-md-6">
               <h2 id="rss2" className="text-center mb-4">About Us</h2>
               <p id="para1">
-                At Restorent Reservation System, we believe that dining is more than just food –
+                At Restaurant Reservation System, we believe that dining is more than just food –
                 it's an experience. Our passion for culinary excellence drives us to
                 craft dishes that ignite your senses and create unforgettable memories.
                 With a dedication to quality and innovation, we invite you to join us
@@ -54,7 +54,7 @@ const About = () => {
                 Whether you're looking for an intimate dinner or a celebration with
                 friends, our team is committed to providing you with exceptional
                 service and an unparalleled dining experience. Discover the art of
-                taste at Restorent Reservation System.
+                taste at Restaurant Reservation System.
               </p>
             </div>
           </div>
